@@ -54,3 +54,6 @@ A simulação termina quando:
 - O jogador é eliminado;
 - Resta apenas um país vivo;
 - Ou o limite máximo de turnos é atingido.
+
+https://youtu.be/2gVGLmdznLA
+link do vídeop com explicação do código.
